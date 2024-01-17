@@ -1,2 +1,1 @@
-Hello? Hexlet!
-Hello? Hexlet! How are you?
+Mishka! You are fool!
